@@ -46,7 +46,7 @@ spec:
         tier: backend
     spec:
       containers:
-      - image: mannmae/fullstack-nodejs:62
+      - image: mannmae/fullstack-nodejs:63
         name: nodejs
         env:
         - name: MYSQL_HOST

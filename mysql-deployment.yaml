@@ -45,7 +45,7 @@ spec:
         tier: mysql
     spec:
       containers:
-      - image: mannmae/fullstack-mysql:62
+      - image: mannmae/fullstack-mysql:63
         name: mysql
         env:
         - name: MYSQL_DATABASE
